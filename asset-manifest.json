@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://ravikumarranjan86.github.io/csb-8r492/static/css/main.d2599ebc.chunk.css",
+    "main.js": "https://ravikumarranjan86.github.io/csb-8r492/static/js/main.b1688238.chunk.js",
+    "main.js.map": "https://ravikumarranjan86.github.io/csb-8r492/static/js/main.b1688238.chunk.js.map",
+    "runtime-main.js": "https://ravikumarranjan86.github.io/csb-8r492/static/js/runtime-main.59d2bf22.js",
+    "runtime-main.js.map": "https://ravikumarranjan86.github.io/csb-8r492/static/js/runtime-main.59d2bf22.js.map",
+    "static/js/2.ed1dcc54.chunk.js": "https://ravikumarranjan86.github.io/csb-8r492/static/js/2.ed1dcc54.chunk.js",
+    "static/js/2.ed1dcc54.chunk.js.map": "https://ravikumarranjan86.github.io/csb-8r492/static/js/2.ed1dcc54.chunk.js.map",
+    "static/js/3.fc45f089.chunk.js": "https://ravikumarranjan86.github.io/csb-8r492/static/js/3.fc45f089.chunk.js",
+    "static/js/3.fc45f089.chunk.js.map": "https://ravikumarranjan86.github.io/csb-8r492/static/js/3.fc45f089.chunk.js.map",
+    "index.html": "https://ravikumarranjan86.github.io/csb-8r492/index.html",
+    "static/css/main.d2599ebc.chunk.css.map": "https://ravikumarranjan86.github.io/csb-8r492/static/css/main.d2599ebc.chunk.css.map",
+    "static/js/2.ed1dcc54.chunk.js.LICENSE.txt": "https://ravikumarranjan86.github.io/csb-8r492/static/js/2.ed1dcc54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59d2bf22.js",
+    "static/js/2.ed1dcc54.chunk.js",
+    "static/css/main.d2599ebc.chunk.css",
+    "static/js/main.b1688238.chunk.js"
+  ]
+}
